@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-first test
+Interest
+ - Web application
+ - Data analyze
+ - MLOps
 
 <!--
 **jaeminjung/jaeminjung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
