@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### Interest
+### Interests
  - Web application
  - Data analyze
  - MLOps
