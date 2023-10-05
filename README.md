@@ -6,9 +6,9 @@
  - MLOps
 
 # :pushpin: findSeat
->카페 자리 현황을 공유하는 지도 기반 어플리케이션 서비스
->https://github.com/jaeminjung/findseat_client
->https://github.com/jaeminjung/findseat_back
+-카페 자리 현황을 공유하는 지도 기반 어플리케이션 서비스
+-https://github.com/jaeminjung/findseat_client
+-https://github.com/jaeminjung/findseat_back
 
 </br>
 
