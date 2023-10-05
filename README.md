@@ -4,13 +4,11 @@
  - Web application
  - Data analyze
 
-## :pushpin: Contact
+## 📧: Contact
 - 이메일: jaeminjung@hotmail.com
 - 깃헙: https://github.com/jaeminjung
 
-</br>
-
-## :pushpin: Projects
+## 💻: Projects
 
 ### findSeat
 >카페 자리 현황을 공유하는 지도 기반 웹어플리케이션
@@ -25,7 +23,7 @@
 
 #### 2. 사용 기술
 ##### `Back-end`
-  - NodeJS
+  - Node.js
   - MongoDB
   - GraphQL
 ##### `Front-end`
@@ -33,67 +31,64 @@
   - Javascript
 
 #### 3. 기능
-- Single Page Application
-- 자리현황 정보, 게시판 등의 요청은 비동기로 처리합니다
+- 싱글 페이지 어플리케이션 (SPA)
+- 자리 현황 정보 및 게시판 요청을 비동기로 처리
 
 #### 4. 느낀점
-- 제한된자원으로 웹기반 어플리케이션을 만듬, 핸드폰에서 따로 앱을 설치안하고 사용 가능하게, 1년 밖에 서버를 안열어놔서 아쉬움
-- 사용자들이 많아야 활성화가 됨, 누군가는 정보를 제공해줘야함
-- 아카이브 못해서 아쉽
+- 제한된 자원으로 웹 기반 어플리케이션을 개발하여 핸드폰에서 앱 설치 없이 사용 가능하게 함
+- 서버를 1년 이상 열지 않아 아쉬움
+- 사용자들의 활동이 필요하며 정보 공유가 중요함
 
-</br>
+****
 
 ### Serbia-home
->세르비아 ICT 봉사활동에서 썻던 홈페이지 제작
+>세르비아 ICT 봉사활동에서 사용한 홈페이지 개발
 >
 ><https://github.com/jaeminjung/serbia-home>
 >
 ><https://archive.md/jaeminjung.pythonanywhere.com>
 >
 
-## 1. 제작 기간 & 참여 인원
+#### 1. 제작 기간 & 참여 인원
 - 2018년 2월 ~ 6월
 - 개인 프로젝트
 
-## 2. 사용 기술
+#### 2. 사용 기술
   - Django
-  - SqlLite
+  - SQLite
   - PythonAnywhere
 
-## 3. 기능
+#### 3. 기능
 - 수업자료 업로드 및 다운로드
-- 인스타 피드 기능
+- 인스타그램 피드 기능
 
-## 4. 느낀점
-- 처음으로 모르는 사람들에게 서비스한 웹페이지 생각보다 만드는데 시간이 오래걸림
-- PythonAnywhere에 호스팅을 해서 트래픽이나 로그들을 볼수있어 좋았다
+#### 4. 느낀점
+- 처음으로 모르는 사람들을 위해 서비스한 웹 페이지로 만드는 데 많은 시간이 소요됨
+- PythonAnywhere에서 호스팅하여 트래픽 및 로그를 쉽게 관리함
 
-</br>
+****
 
 ### zilbbug & hidden_zilbbug
->방송 컨텐츠를 위해 단시간에 만든 스텟
+>리그오브레전드 방송 컨텐츠를 위해 단시간에 만든 프로그램
 >
 ><https://github.com/jaeminjung/zilbbug>
 >
 ><https://github.com/jaeminjung/hidden_zilbbug>
 >
 
-## 1. 제작 기간 & 참여 인원
+#### 1. 제작 기간 & 참여 인원
 - 2021년 7월 7일, 21일
 - 개인 프로젝트
 
-## 2. 사용 기술
+#### 2. 사용 기술
   - Python
-  - 
 
-## 3. 기능
-- 롤 계정의 데이터를 가져와서 같이 게임한 사람들과의 적으로 만났을때 상대전적 또는 같은팀일때 얼마나 잘했는지 스텟을 알려줌
+#### 3. 기능
+- 롤 게임 계정 데이터를 가져와 같이 게임한 플레이어와의 상대전적 또는 팀원 간 성과를 보여줌
 
-## 4. 느낀점
-- 리그오브레전드 api에서 데이터 가져오는데 limit가 걸려있어 오래걸리는게 아쉬움
-- 결과물을 조금 더 보기 좋게 시각화 했으면 하는 바램
-- 
-
+#### 4. 느낀점
+- 리그 오브 레전드 API에서 데이터를 가져올 때 제한이 있어 처리 시간이 길어짐
+- 결과물을 시각적으로 표현하는 데 노력하면 좋을 것으로 생각됨
 
 <!--
 **jaeminjung/jaeminjung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
