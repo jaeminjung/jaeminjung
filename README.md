@@ -69,7 +69,7 @@
 ****
 
 ### zilbbug & hidden_zilbbug
->리그오브레전드 방송 컨텐츠를 위해 단시간에 만든 프로그램
+>리그오브레전드 인터넷 방송 컨텐츠를 위해 단시간에 만든 프로그램
 >
 ><https://github.com/jaeminjung/zilbbug>
 >
